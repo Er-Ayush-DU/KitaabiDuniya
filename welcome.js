@@ -5,8 +5,6 @@ var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
 
 
 
-
-
 function toggleFAQ(index) {
   var answer = document.getElementById('faq' + index);
   var icon = document.getElementById('icon' + index);
